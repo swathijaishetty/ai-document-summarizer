@@ -12,3 +12,13 @@ An AI-powered PDF/document summarizer built using Python and Streamlit.
 - Python
 - Streamlit
 - OpenAI API
+
+<br>
+
+ **_Output Screenshot_** :  
+
+<br>
+
+![output](image.png)
+
+<br>
