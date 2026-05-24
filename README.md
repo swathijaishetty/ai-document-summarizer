@@ -15,6 +15,10 @@ An AI-powered PDF/document summarizer built using Python and Streamlit.
 
 <br>
 
+ [Click-here for **All 15 Projects Live Link**](https://aipowered-document-summarizer.streamlit.app/)
+ 
+ <br>
+
  **_Output Screenshot_** :  
 
 <br>
